@@ -1,0 +1,5 @@
+version: "2.0"
+services:
+  master:
+    build: .
+    image: "jdk8maven"
